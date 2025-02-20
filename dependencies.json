@@ -1,0 +1,128 @@
+{
+	"Path": "github.com/sonatype-nexus-community/intentionally-vulnerable-golang-project",
+	"Main": true,
+	"Dir": "/Users/selbaynuryyeva/intentionally-vulnerable-golang-project",
+	"GoMod": "/Users/selbaynuryyeva/intentionally-vulnerable-golang-project/go.mod",
+	"GoVersion": "1.13"
+}
+{
+	"Path": "github.com/davecgh/go-spew",
+	"Version": "v1.1.1",
+	"Time": "2018-02-21T23:26:28Z",
+	"Indirect": true,
+	"Dir": "/Users/selbaynuryyeva/go/pkg/mod/github.com/davecgh/go-spew@v1.1.1",
+	"GoMod": "/Users/selbaynuryyeva/go/pkg/mod/cache/download/github.com/davecgh/go-spew/@v/v1.1.1.mod",
+	"Sum": "h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=",
+	"GoModSum": "h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38="
+}
+{
+	"Path": "github.com/go-gitea/gitea",
+	"Version": "v1.2.3",
+	"Time": "2017-11-03T13:40:46Z",
+	"Dir": "/Users/selbaynuryyeva/go/pkg/mod/github.com/go-gitea/gitea@v1.2.3",
+	"GoMod": "/Users/selbaynuryyeva/go/pkg/mod/cache/download/github.com/go-gitea/gitea/@v/v1.2.3.mod",
+	"Sum": "h1:L0SC8kIr3+UnxNAte9M9bmdQ8Bdrc6I5b4Zuz/T+NCw=",
+	"GoModSum": "h1:g8iUbfFNyuJp8u7GsSggxI8NQyuxeGTyqxogl3imbQM="
+}
+{
+	"Path": "github.com/gophish/gophish",
+	"Version": "v0.1.2",
+	"Time": "2016-03-04T02:44:11Z",
+	"Dir": "/Users/selbaynuryyeva/go/pkg/mod/github.com/gophish/gophish@v0.1.2",
+	"GoMod": "/Users/selbaynuryyeva/go/pkg/mod/cache/download/github.com/gophish/gophish/@v/v0.1.2.mod",
+	"Sum": "h1:OWsIzbGf+JbkCNOokbY1sS+nkArDs+9G9kPzRBJz4c4=",
+	"GoModSum": "h1:3nVgumCxriDReEVZ47/9PK5JtN43TcCE9TXt++zFJe8="
+}
+{
+	"Path": "github.com/kr/pretty",
+	"Version": "v0.1.0",
+	"Time": "2018-05-06T08:33:45Z",
+	"Indirect": true,
+	"Dir": "/Users/selbaynuryyeva/go/pkg/mod/github.com/kr/pretty@v0.1.0",
+	"GoMod": "/Users/selbaynuryyeva/go/pkg/mod/cache/download/github.com/kr/pretty/@v/v0.1.0.mod",
+	"Sum": "h1:L/CwN0zerZDmRFUapSPitk6f+Q3+0za1rQkzVuMiMFI=",
+	"GoModSum": "h1:dAy3ld7l9f0ibDNOQOHHMYYIIbhfbHSm3C4ZsoJORNo="
+}
+{
+	"Path": "github.com/kr/pty",
+	"Version": "v1.1.1",
+	"Time": "2018-01-13T18:08:13Z",
+	"Indirect": true,
+	"GoMod": "/Users/selbaynuryyeva/go/pkg/mod/cache/download/github.com/kr/pty/@v/v1.1.1.mod",
+	"GoModSum": "h1:pFQYn66WHrOpPYNljwOMqo10TkYh1fy3cYio2l3bCsQ="
+}
+{
+	"Path": "github.com/kr/text",
+	"Version": "v0.1.0",
+	"Time": "2018-05-06T08:24:08Z",
+	"Indirect": true,
+	"Dir": "/Users/selbaynuryyeva/go/pkg/mod/github.com/kr/text@v0.1.0",
+	"GoMod": "/Users/selbaynuryyeva/go/pkg/mod/cache/download/github.com/kr/text/@v/v0.1.0.mod",
+	"Sum": "h1:45sCR5RtlFHMR4UwH9sdQ5TC8v0qDQCHnXt+kaKSTVE=",
+	"GoModSum": "h1:4Jbv+DJW3UT/LiOwJeYQe1efqtUx/iVham/4vfdArNI="
+}
+{
+	"Path": "github.com/pmezard/go-difflib",
+	"Version": "v1.0.0",
+	"Time": "2016-01-10T10:55:54Z",
+	"Indirect": true,
+	"Dir": "/Users/selbaynuryyeva/go/pkg/mod/github.com/pmezard/go-difflib@v1.0.0",
+	"GoMod": "/Users/selbaynuryyeva/go/pkg/mod/cache/download/github.com/pmezard/go-difflib/@v/v1.0.0.mod",
+	"Sum": "h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=",
+	"GoModSum": "h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4="
+}
+{
+	"Path": "github.com/stretchr/objx",
+	"Version": "v0.1.0",
+	"Time": "2018-01-06T01:13:53Z",
+	"Indirect": true,
+	"GoMod": "/Users/selbaynuryyeva/go/pkg/mod/cache/download/github.com/stretchr/objx/@v/v0.1.0.mod",
+	"GoModSum": "h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME="
+}
+{
+	"Path": "github.com/stretchr/testify",
+	"Version": "v1.4.0",
+	"Time": "2019-07-12T00:01:36Z",
+	"Indirect": true,
+	"Dir": "/Users/selbaynuryyeva/go/pkg/mod/github.com/stretchr/testify@v1.4.0",
+	"GoMod": "/Users/selbaynuryyeva/go/pkg/mod/cache/download/github.com/stretchr/testify/@v/v1.4.0.mod",
+	"Sum": "h1:2E4SXV/wtOkTonXsotYi4li6zVWxYlZuYNCXe9XRJyk=",
+	"GoModSum": "h1:j7eGeouHqKxXV5pUuKE4zz7dFj8WfuZ+81PSLYec5m4="
+}
+{
+	"Path": "golang.org/x/crypto",
+	"Version": "v0.0.0-20190308221718-c2843e01d9a2",
+	"Time": "2019-03-08T22:17:18Z",
+	"Dir": "/Users/selbaynuryyeva/go/pkg/mod/golang.org/x/crypto@v0.0.0-20190308221718-c2843e01d9a2",
+	"GoMod": "/Users/selbaynuryyeva/go/pkg/mod/cache/download/golang.org/x/crypto/@v/v0.0.0-20190308221718-c2843e01d9a2.mod",
+	"Sum": "h1:VklqNMn3ovrHsnt90PveolxSbWFaJdECFbxSq0Mqo2M=",
+	"GoModSum": "h1:djNgcEr1/C05ACkg1iLfiJU5Ep61QUkGW8qpdssI0+w="
+}
+{
+	"Path": "golang.org/x/sys",
+	"Version": "v0.0.0-20190215142949-d0b11bdaac8a",
+	"Time": "2019-02-15T14:29:49Z",
+	"Indirect": true,
+	"GoMod": "/Users/selbaynuryyeva/go/pkg/mod/cache/download/golang.org/x/sys/@v/v0.0.0-20190215142949-d0b11bdaac8a.mod",
+	"GoModSum": "h1:STP8DvDyc/dI5b8T5hshtkjS+E42TnysNCUPdjciGhY="
+}
+{
+	"Path": "gopkg.in/check.v1",
+	"Version": "v1.0.0-20190902080502-41f04d3bba15",
+	"Time": "2019-09-02T08:05:02Z",
+	"Indirect": true,
+	"Dir": "/Users/selbaynuryyeva/go/pkg/mod/gopkg.in/check.v1@v1.0.0-20190902080502-41f04d3bba15",
+	"GoMod": "/Users/selbaynuryyeva/go/pkg/mod/cache/download/gopkg.in/check.v1/@v/v1.0.0-20190902080502-41f04d3bba15.mod",
+	"Sum": "h1:YR8cESwS4TdDjEe65xsg0ogRM/Nc3DYOhEAlW+xobZo=",
+	"GoModSum": "h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0="
+}
+{
+	"Path": "gopkg.in/yaml.v2",
+	"Version": "v2.2.4",
+	"Time": "2019-10-02T18:33:36Z",
+	"Indirect": true,
+	"Dir": "/Users/selbaynuryyeva/go/pkg/mod/gopkg.in/yaml.v2@v2.2.4",
+	"GoMod": "/Users/selbaynuryyeva/go/pkg/mod/cache/download/gopkg.in/yaml.v2/@v/v2.2.4.mod",
+	"Sum": "h1:/eiJrUcujPVeJ3xlSWaiNi3uSVmDGBK1pDHUHAnao1I=",
+	"GoModSum": "h1:hI93XBmqTisBFMUTm0b8Fm+jr3Dg1NNxqwp+5A1VGuI="
+}
